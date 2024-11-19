@@ -1,0 +1,18 @@
+body {
+    background-color: slategray;
+    text-align: center;
+}
+
+pre {
+    text-align: left;
+}
+
+#centerText {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#submitfield {
+    width: 40%;
+}
